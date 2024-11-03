@@ -3,5 +3,6 @@
   "class": "fan",
   "name": {
     "en": "Fan"
-  }
+  },
+  "capabilities": ["onoff", "dim"]
 }
